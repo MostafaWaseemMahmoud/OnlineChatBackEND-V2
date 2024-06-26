@@ -140,7 +140,7 @@ app.post("/v2/allrooms", async (req, res) => {
 
 mongoose
   .connect(
-    "mongodb+srv://mostafawaseem22:F4nNYVG7SFzSIWct@onlinechatdb.4uqhkez.mongodb.net/?retryWrites=true&w=majority&appName=OnlineChatDb"
+    "mongodb+srv://mostafawaseem88:wY8PUNoXY1intCBE@onlinechatappication.jqttwjj.mongodb.net/?retryWrites=true&w=majority&appName=OnlineChatAppication"
   )
   .then(() => {
     console.log("connected To Database");
